@@ -1,0 +1,10 @@
+#animacion{
+    color: #787ab5;
+  }
+  
+  #animacion:hover{
+    background-repeat: no-repeat;
+    color: white;
+    cursor: pointer;
+    transition: 0.5s;
+  }
